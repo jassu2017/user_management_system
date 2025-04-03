@@ -57,5 +57,5 @@ app.post('/update', (req, res) => {
 
 // Start Server
 app.listen(PORT, () => {
-    console.log(`Server running at http://localhost:${PORT}`);
+    console.log(`Application is running!`);
 });
